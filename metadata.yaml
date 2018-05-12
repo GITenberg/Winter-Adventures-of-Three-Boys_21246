@@ -1,0 +1,38 @@
+_repo: Winter-Adventures-of-Three-Boys_21246
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Laughlin, J. E.
+    gutenberg_agent_id: '9795'
+    url: http://www.gutenberg.org/2009/agents/9795
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, Egerton Ryerson
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '9793'
+    url: http://www.gutenberg.org/2009/agents/9793
+description: A sequel to the author's "Three boys in the wild north land."
+gutenberg_issued: '2007-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canoes and canoeing -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Winter Adventures of Three Boys in the Great Lone Land
+url: http://www.gutenberg.org/ebooks/21246
